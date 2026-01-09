@@ -1,0 +1,15 @@
+I built the app using the material given on the course. It was pretty ready,
+so I decided to write everything manually. The code in the material worked,
+but the page didn't look well. I made it full screen and dynamically adjusting to
+window size as well as did some styling.
+The routing was new for me and I didn't know that it was possible in react. Although
+I've done some projects to learn it by myself (if interested check my github: https://github.com/dmitry-nazarov22).
+
+I learned routing and all in all it wasn't that hard. I can't say I had that big of a challenge
+doing this exercise.
+
+One thing to note is that I used NavLink instead of Link because of its built-in
+active status that is very helpful at indicating the active tab in the app.
+
+Link to my repository:
+https://github.com/dmitry-nazarov22/C-10065-TT00GQ49-3001-fundamentals-of-react-nazarov-dmitry

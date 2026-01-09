@@ -1,0 +1,18 @@
+.todo {
+    display: flex;
+    justify-content: space-between;
+    background-color: #ffffff;
+    color: black;
+    padding: 8px 12px;
+    margin-bottom: 4px;
+    border-radius: 4px;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: gray;
+}
+
+button {
+    margin-left: 10px;
+}
