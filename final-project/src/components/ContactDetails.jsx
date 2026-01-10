@@ -10,7 +10,7 @@ export default function ContactDetails({ contacts, deleteContact, editContact })
     const contact = contacts.find(c => c.id === id);
 
     if (!contact) {
-        return <h2>Contact not found</h2>;
+        return <h2 style={{ color: "#393939" }}>Contact not found</h2>;
     }
 
     const startEdit = () => {
